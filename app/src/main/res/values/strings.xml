@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Eksplisit&amp;Implisit</string>
+    <string name="this_is_the_reply">this_is_the_replay</string>
+    <string name="reply_received">reply_received</string>
+    <string name="message_received">message_received</string>
+</resources>
